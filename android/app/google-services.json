@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "137833612938",
+    "project_id": "samaeer-d8105",
+    "storage_bucket": "samaeer-d8105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137833612938:android:0a3b598d2cee5f82220f73",
+        "android_client_info": {
+          "package_name": "com.example.firebase_proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137833612938-tg6ip4tmt2890c4hdkdqe6vr3bss9otq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3fMoVPRGw-9dyFu5dMGn1JZYfGWrXAp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137833612938-tg6ip4tmt2890c4hdkdqe6vr3bss9otq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137833612938:android:1d56906a8031d715220f73",
+        "android_client_info": {
+          "package_name": "com.example.flutterui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137833612938-tg6ip4tmt2890c4hdkdqe6vr3bss9otq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3fMoVPRGw-9dyFu5dMGn1JZYfGWrXAp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137833612938-tg6ip4tmt2890c4hdkdqe6vr3bss9otq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
